@@ -116,10 +116,9 @@ LED ON:
 ![Screenshot 2023-08-30 214436](https://github.com/nkishore2210/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707090/d5367225-a770-44db-8a46-0c362adf6c88)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
- 
- 
- 
- 
+
+![Screenshot 2023-08-30 220014](https://github.com/nkishore2210/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707090/aa361755-3abe-4bb5-88fd-4762f1276ad9)
+
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
 
