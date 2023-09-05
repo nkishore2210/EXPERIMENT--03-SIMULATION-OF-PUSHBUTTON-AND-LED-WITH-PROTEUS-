@@ -106,6 +106,7 @@ int main(void)
 	  else
 	  {
 	  		  HAL_GPIO_WritePin(GPIOA, GPIO_PIN_1, GPIO_PIN_RESET);
+                          HAL_Delay(2500);
 	  }
   }
 }
@@ -114,14 +115,16 @@ int main(void)
 ## Output screen shots of proteus  :
 
 ## LED OFF:
-![Screenshot 2023-08-30 214418](https://github.com/nkishore2210/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707090/9f601e1f-ecf0-424c-9378-54fd05dd8be4)
+
+![Screenshot 2023-09-05 202528](https://github.com/nkishore2210/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707090/c91dcc0a-316f-4832-9075-1a2fae691904)
 
 ## LED ON:
-![Screenshot 2023-08-30 214436](https://github.com/nkishore2210/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707090/d5367225-a770-44db-8a46-0c362adf6c88)
+
+![Screenshot 2023-09-05 202744](https://github.com/nkishore2210/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707090/371822de-62ff-492b-bb03-c319767db3d4)
 
 ## Proteus layout :
 
-![Screenshot 2023-08-30 220014](https://github.com/nkishore2210/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707090/aa361755-3abe-4bb5-88fd-4762f1276ad9)
+![Screenshot 2023-09-05 202903](https://github.com/nkishore2210/EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED-WITH-PROTEUS-/assets/118707090/9135d0f5-db5f-455d-98c9-938e71975bc1)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
